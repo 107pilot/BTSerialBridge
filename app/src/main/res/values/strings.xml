@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BTSerialBridge</string>
+    <string name="out2Text">BT Status</string>
+</resources>
